@@ -22,7 +22,20 @@ noch per `sync fork` mit dem Original-Repository synchronisiert werden.
 ## Aufgabe
 
 Im Package `edu.inflk.algorithm` befinden sich drei Klassen mit jeweils
-unterschiedlichen Aufgabenstellungen.
+unterschiedlichen Aufgabenstellungen:
+
+Bedingte Verzweigungen:
+1. Entwerfen Sie eine Methode mit einer einseitigen Verzweigung (if).
+2. Entwerfen Sie eine Methode mit einer zweiseitigen Verzweigung (if else).
+3. Entwerfen Sie eine Methode mit einer mehrseitigen Verzweigung (switch case).
+
+Zählschleifen:
+1. Entwerfen Sie eine Methode mit einer Zählschleife (for).
+2. Entwerfen Sie eine Methode mit einer Schleife (for each).
+
+`while`-Schleifen:
+1. Entwerfen Sie eine Methode mit einer kopfgesteuerten Schleife.
+2. Entwerfen Sie eine Methode mit einer fußgesteuerten Schleife.
 
 Jeder Teilnehmende entscheidet sich unter Absprache mit den anderen
 für **eine** der insgesamt **7 Aufgaben** und führt die oben
