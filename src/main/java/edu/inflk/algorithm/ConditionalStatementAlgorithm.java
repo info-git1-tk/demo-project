@@ -18,5 +18,7 @@ public class ConditionalStatementAlgorithm {
         Verwenden Sie auch eine 'for'- oder 'for-each'-Schleife.
      */
     private Integer[] numbers = {1,2,3,7,23,99,46,23};
+    
+    
 
 }
