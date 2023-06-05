@@ -55,7 +55,6 @@ public class ConditionalStatementAlgorithm {
                 System.out.printf("Sonstige Zahlen kommen %s Mal vor!%n", count[i]);
             }            
         }
-        
     }
 
 }
