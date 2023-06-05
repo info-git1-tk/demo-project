@@ -17,7 +17,6 @@ public class ConditionalStatementAlgorithm {
     // TODO: Entwerfen Sie eine Methode mit einer mehrseitigen Verzweigung (switch case).
         Verwenden Sie auch eine 'for'- oder 'for-each'-Schleife.
      */
-
     private Integer[] numbers = {1,2,3,7,23,99,46,23,5};
     
     // Hilfsattribute
@@ -45,16 +44,12 @@ public class ConditionalStatementAlgorithm {
             
         }
         
-        for(int i = 0; i < count.length;i++)
+        for(int i = 1; i < count.length;i++)
         {
-            if(i != 0)
-            {
-                System.out.printf("Die Zahl %s kommt %s Mal vor!%n", i,count[i]);
-            } else
-            {
-                System.out.printf("Sonstige Zahlen kommen %s Mal vor!%n", count[i]);
-            }            
+            System.out.printf("Die Zahl %s kommt %s Mal vor!%n", i,count[i]);
         }
+        System.out.printf("Sonstige Zahlen kommen %s Mal vor!%n",count[0]);
+        
     }
 
 }
