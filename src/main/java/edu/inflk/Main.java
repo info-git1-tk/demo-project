@@ -43,4 +43,7 @@ public class Main {
         while (!i);
 
     }
+
+    // Neue Funktionen etablieren
+
 }
