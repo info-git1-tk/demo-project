@@ -46,4 +46,6 @@ public class Main {
 
     // Neue Funktionen etablieren
 
+    // Hier gibts was cooles
+
 }
