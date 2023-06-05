@@ -1,7 +1,5 @@
 package edu.inflk;
 
-import edu.inflk.algorithm.ConditionalStatementAufgabe;
-import edu.inflk.algorithm.Foreach;
 
 import java.util.Arrays;
 import java.util.Iterator;
@@ -9,8 +7,6 @@ import java.util.Iterator;
 public class Main {
     public static void main(String[] args) {
 
-        ConditionalStatementAufgabe aufgabe1 = new ConditionalStatementAufgabe();
-        System.out.println(aufgabe1);
 
         String[] list = {"a","b","c","d"};
 
